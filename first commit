@@ -4,3 +4,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/taylorcox01/hot-fire.git
 git push -u origin master
+
+Hi humans,
+
+I know nothing about this stuff.
